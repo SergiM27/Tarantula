@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackgroundScroller
+  - Background
+  - Wall
+  - DestroyBullet
+  - Drop
+  - Enemy
+  - MapProp
+  - Holes
+  - EnemyBullet
+  - PlayerBullet
+  - BossBullet
+  - RoomLimit
+  - LeftDownWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerBullets
+  - IgnoreBullets
+  - Enemy
+  - Wall
+  - EnemyBullet
+  - RoomLimit
+  - PostProcessing
+  - HermalhoShield
+  - PlayerShield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Underground
+    uniqueID: 3540721975
+    locked: 0
+  - name: Ground
+    uniqueID: 1273552261
+    locked: 0
+  - name: Overground
+    uniqueID: 1480760515
+    locked: 0
+  - name: Player
+    uniqueID: 1426035053
+    locked: 0
+  - name: Wall
+    uniqueID: 2440549733
+    locked: 0
+  - name: Ceiling
+    uniqueID: 1020946319
+    locked: 0
+  - name: MainMenu_Background
+    uniqueID: 1234912465
+    locked: 0

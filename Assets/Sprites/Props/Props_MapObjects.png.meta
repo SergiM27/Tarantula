@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 6e9287782e84c1f42919328afe2d843a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Props_MapObjects_0
+  - first:
+      213: 21300002
+    second: Props_MapObjects_1
+  - first:
+      213: 21300004
+    second: Props_MapObjects_2
+  - first:
+      213: 21300006
+    second: Props_MapObjects_3
+  - first:
+      213: 21300008
+    second: Props_MapObjects_4
+  - first:
+      213: 21300010
+    second: Props_MapObjects_5
+  - first:
+      213: 21300012
+    second: Props_MapObjects_6
+  - first:
+      213: 21300014
+    second: Props_MapObjects_7
+  - first:
+      213: 21300016
+    second: Props_MapObjects_8
+  - first:
+      213: 21300018
+    second: Props_MapObjects_9
+  - first:
+      213: 21300020
+    second: Props_MapObjects_10
+  - first:
+      213: 21300022
+    second: Props_MapObjects_11
+  - first:
+      213: 21300024
+    second: Props_MapObjects_12
+  - first:
+      213: 21300026
+    second: Props_MapObjects_13
+  - first:
+      213: 21300028
+    second: Props_MapObjects_14
+  - first:
+      213: 21300030
+    second: Props_MapObjects_15
+  - first:
+      213: 21300032
+    second: Props_MapObjects_16
+  - first:
+      213: 21300034
+    second: Props_MapObjects_17
+  - first:
+      213: 21300036
+    second: Props_MapObjects_18
+  - first:
+      213: 21300038
+    second: Props_MapObjects_19
+  - first:
+      213: 21300040
+    second: Props_MapObjects_20
+  - first:
+      213: 21300042
+    second: Props_MapObjects_21
+  - first:
+      213: 21300044
+    second: Props_MapObjects_22
+  - first:
+      213: 21300046
+    second: Props_MapObjects_23
+  - first:
+      213: 21300048
+    second: Props_MapObjects_24
+  - first:
+      213: 21300050
+    second: Props_MapObjects_25
+  - first:
+      213: 21300052
+    second: Props_MapObjects_26
+  - first:
+      213: 21300054
+    second: Props_MapObjects_27
+  - first:
+      213: 21300056
+    second: Props_MapObjects_28
+  - first:
+      213: 21300058
+    second: Props_MapObjects_29
+  - first:
+      213: 21300060
+    second: Props_MapObjects_30
+  - first:
+      213: 21300062
+    second: Props_MapObjects_31
+  - first:
+      213: 21300064
+    second: Props_MapObjects_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_MapObjects_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 147
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cddd8dd2d4d14c47ad4af852d7beb40
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 147
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607529d89adccb42bac1c77954b695f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb545765d574cd649bf111da720a58d7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 150
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5fdf18bdf1e442befe6a5381540ef
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 151
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7b7ca6279c5649965d11fb4db0091
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7972bffcd5b6a40a45d905e7f48b53
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 150
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4997602, y: -0.000093248156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e692f5f40d9eb48a7a71f94e488deb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 150
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5004796, y: 0.0002784729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9556bc935d115342aed6bf5496f9860
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 150
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5002398, y: 0.0002784729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41947d37d65fc7145ad16886b158020d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcdacf1a4ba4b5469d2ffec83a102bb
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 97
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788020c07c47de94896a5aac14a909e1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356a05c1a4f01748889ed8e99cd2097
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 103
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b462f485b691a41929cada1037baed
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 103
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733708b53f3a0645a43bbfb0d02e56d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 103
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f7d77e34ac80478ffffef52b8ee0d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 102
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49980816, y: -0.0010505252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab934a1cdb170e745ba39e7403c5d3f0
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 102
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49859402, y: 0.00081062317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65775a4d9b6154fb6eda3b3fc5eb6e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 102
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5001918, y: 0.0015669928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359d74bbfb7a444daf4e944053a9e4a
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63075590b4168140bed81c1bdbab1c7
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b54b19d11dee6a4db0bb4ced04d6252
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47836f4f07a45943aed4dfaf78b779b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 55
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72e4bab0985c94c8cf8b0af19ac587
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 54
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb6ebaf01372846b28c9872cbef1f1
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 54
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.0029854407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f083f37583da67b48b3a437cc9f82c2c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 54
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.0029854407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1532251c8c86740a3d88bb4233209a
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_25
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 54
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5007226, y: -0.0007801056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d275b92f84dbb4bbed0c467a2d9531
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab77e1053a48ac41b59c4eaae93bb7b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 12
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6305ff330820348af214f641fc9081
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 10
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec0f67f26933849b210ea6a8899bf0
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815095987b76a9241bb17ab93b684902
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49971008, y: -0.00015939199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9f8f625d145b4f88c6818832a8790
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.0029849822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf62dd30f1fc74b88588e5fb952374
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_MapObjects_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5000022, y: 0.0029849822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f6619c891ac64495365c37becc9fb
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2063906ae3278f4419b37e8f4b6c9274
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
